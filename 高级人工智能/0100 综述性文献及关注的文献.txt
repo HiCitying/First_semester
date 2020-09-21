@@ -1,0 +1,660 @@
+
+
+生成性对抗网络（GAN）文献学习
+
+
+一、综述性文献
+
+0101 https://en.wikipedia.org/wiki/Generative_adversarial_network
+
+
+二、原始文献
+
+0201 generative-adversarial-nets.pdf
+
+0202 Science领域的应用文献：
+
+https://comp-astrophys-cosmol.springeropen.com/articles/10.1186/s40668-019-0029-9
+
+
+三、关注的论文
+
+文献0301
+
+Grain boundary detection and second phase segmentation based on multi-task learning and generative adversarial network
+作者:Li, MC (Li, Mingchun)[ 1 ] ; Chen, DL (Chen, Dali)[ 1 ] ; Liu, SX (Liu, Shixin)[ 1 ] ; Liu, F (Liu, Fang)[ 2 ]
+MEASUREMENT
+卷: 162
+文献号: 107857
+DOI: 10.1016/j.measurement.2020.107857
+出版年: OCT 1 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENGINEERING, MULTIDISCIPLINARY	Q2
+INSTRUMENTS & INSTRUMENTATION	Q2
+
+作者关键词:Grain boundary detection; Second phase segmentation; Multi-task learning; Generative adversarial network
+KeyWords Plus:SIZE DETERMINATION; CLASSIFICATION; IMAGES; TUTORIAL
+
+
+文献0302
+
+Facial Image Synthesis and Super-Resolution With Stacked Generative Adversarial Network
+作者:He, JJ (He, Jijun)[ 1,2 ] ; Zheng, JJ (Zheng, Jinjin)[ 1 ] ; Shen, Y (Shen, Yuan)[ 2 ] ; Guo, YT (Guo, Yutang)[ 2 ] ; Zhou, HJ (Zhou, Hongjun)[ 3 ]
+NEUROCOMPUTING
+卷: 402  页: 359-365
+DOI: 10.1016/j.neucom.2020.03.107
+出版年: AUG 18 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+作者关键词:Generative Adversarial Network; Face hallucination; Super Resolution; Image synthesis
+
+
+文献0303
+
+IGAN-IDS: An imbalanced generative adversarial network towards intrusion detection system in ad-hoc networks
+作者:Huang, SK (Huang, Shuokang)[ 1 ] ; Lei, K (Lei, Kai)[ 1,2 ]
+AD HOC NETWORKS
+卷: 105
+文献号: 102177
+DOI: 10.1016/j.adhoc.2020.102177
+出版年: AUG 1 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, INFORMATION SYSTEMS	Q1
+TELECOMMUNICATIONS	Q2
+
+作者关键词:Intrusion detection system; Class imbalance; Generative adversarial network; Ad-hoc networks
+KeyWords Plus:SUPPORT VECTOR MACHINE; DATA SETS; SMOTE
+
+
+文献0304
+
+Infrared and visible image fusion using dual discriminators generative adversarial networks with Wasserstein distance
+作者:Li, J (Li, Jing)[ 1 ] ; Huo, HT (Huo, Hongtao)[ 1 ] ; Liu, KJ (Liu, Kejian)[ 2 ] ; Li, C (Li, Chang)[ 3 ]
+INFORMATION SCIENCES
+卷: 529  页: 28-41
+DOI: 10.1016/j.ins.2020.04.035
+出版年: AUG 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, INFORMATION SYSTEMS	Q1
+
+作者关键词:Wasserstein generative adversarial network; Image fusion; Local binary pattern; Infrared image; Visible image
+KeyWords Plus:MULTISCALE TRANSFORM
+
+
+文献0305
+
+Modality-specific and shared generative adversarial network for cross-modal retrieval
+作者:Wu, F (Wu, Fei)[ 1 ] ; Jing, XY (Jing, Xiao-Yuan)[ 2 ] ; Wu, ZY (Wu, Zhiyong)[ 1 ] ; Ji, YM (Ji, Yimu)[ 3 ] ; Dong, XW (Dong, Xiwei)[ 1 ] ; Luo, XK (Luo, Xiaokai)[ 1 ] ; Huang, QH (Huang, Qinghua)[ 4 ] ; Wang, RC (Wang, Ruchuan)[ 3 ]
+查看 Web of Science ResearcherID 和 ORCID
+PATTERN RECOGNITION
+卷: 104
+文献号: 107335
+DOI: 10.1016/j.patcog.2020.107335
+出版年: AUG 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+ENGINEERING, ELECTRICAL & ELECTRONIC	Q1
+
+作者关键词:Cross-modal retrieval; Generative adversarial networks (GAN); Modality-specific feature learning; Modality-shared feature learning
+
+
+文献0306
+
+Stochastic reconstruction of 3D porous media from 2D images using generative adversarial networks
+作者:Valsecchi, A (Valsecchi, Andrea)[ 1,2 ] ; Damas, S (Damas, Sergio)[ 2,3 ] ; Tubilleja, C (Tubilleja, Cristina)[ 4 ] ; Arechalde, J (Arechalde, Javier)[ 4 ]
+NEUROCOMPUTING
+卷: 399  页: 227-236
+DOI: 10.1016/j.neucom.2019.12.040
+出版年: JUL 25 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+作者关键词:Artificial neural networks; Stochastic image reconstruction; Porous media
+
+
+文献0307
+
+Single image super-resolution with enhanced Laplacian pyramid network via conditional generative adversarial learning
+作者:Zhang, XL (Zhang, Xiaolu)[ 1 ] ; Song, HH (Song, Huihui)[ 1 ] ; Zhang, KH (Zhang, Kaihua)[ 1 ] ; Qiao, JJ (Qiao, Jiaojiao)[ 1 ] ; Liu, QS (Liu, Qingshan)[ 1 ]
+查看 Web of Science ResearcherID 和 ORCID
+NEUROCOMPUTING
+卷: 398  页: 531-538
+DOI: 10.1016/j.neucom.2019.04.097
+出版年: JUL 20 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+作者关键词:Single image super-resolution; GAN; Conditional GAN; Laplacian pyramid
+
+
+文献0308
+
+Classification of pathogens by Raman spectroscopy combined with generative adversarial networks
+作者:Yu, SX (Yu, Shixiang)[ 1,3 ] ; Li, HF (Li, Hanfei)[ 2,3 ] ; Li, X (Li, Xin)[ 1,3 ] ; Fu, YV (Fu, Yu Vincent)[ 2 ] ; Liu, FH (Liu, Fanghua)[ 1,4,5 ]
+SCIENCE OF THE TOTAL ENVIRONMENT
+卷: 726
+文献号: 138477
+DOI: 10.1016/j.scitotenv.2020.138477
+出版年: JUL 15 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENVIRONMENTAL SCIENCES	Q1
+
+作者关键词:Classification; Generative adversarial network; Pathogens; Raman spectroscopy
+
+
+文献0309
+
+Intelligent fault diagnosis of rotating machinery via wavelet transform, generative adversarial nets and convolutional neural network
+作者:Liang, PF (Liang, Pengfei)[ 1 ] ; Deng, C (Deng, Chao)[ 1 ] ; Wu, J (Wu, Jun)[ 2 ] ; Yang, ZX (Yang, Zhixin)[ 3 ]
+MEASUREMENT
+卷: 159
+文献号: 107768
+DOI: 10.1016/j.measurement.2020.107768
+出版年: JUL 15 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+ENGINEERING, MULTIDISCIPLINARY	Q2
+INSTRUMENTS & INSTRUMENTATION	Q2
+
+作者关键词:Fault diagnosis; Rotating machinery; Wavelet transform; Generative adversarial nets; Convolutional neural net
+
+
+文献0310
+
+Audio-visual domain adaptation using conditional semi-supervised Generative Adversarial Networks
+作者:Athanasiadis, C (Athanasiadis, Christos)[ 1 ] ; Hortal, E (Hortal, Enrique)[ 1 ] ; Asteriadis, S (Asteriadis, Stylianos)[ 1 ]
+NEUROCOMPUTING
+卷: 397  页: 331-344
+DOI: 10.1016/j.neucom.2019.09.106
+出版年: JUL 15 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+作者关键词:Domain adaptation; Conformal prediction; Generative adversarial; Networks
+
+
+文献0311
+
+Generative adversarial network-based semi-supervised learning for real-time risk warning of process industries
+作者:He, R (He, Rui)[ 1 ] ; Li, XH (Li, Xinhong)[ 2 ] ; Chen, GM (Chen, Guoming)[ 1 ] ; Chen, GX (Chen, Guoxing)[ 1 ] ; Liu, YW (Liu, Yiwei)[ 1 ]
+EXPERT SYSTEMS WITH APPLICATIONS
+卷: 150
+文献号: 113244
+DOI: 10.1016/j.eswa.2020.113244
+出版年: JUL 15 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+ENGINEERING, ELECTRICAL & ELECTRONIC	Q1
+OPERATIONS RESEARCH & MANAGEMENT SCIENCE	Q1
+
+
+文献0312
+
+Data augmentation in fault diagnosis based on the Wasserstein generative adversarial network with gradient penalty
+作者:Gao, X (Gao, Xin)[ 1 ] ; Deng, F (Deng, Fang)[ 1 ] ; Yue, XH (Yue, Xianghu)[ 1 ]
+NEUROCOMPUTING
+卷: 396  页: 487-494
+DOI: 10.1016/j.neucom.2018.10.109
+出版年: JUL 5 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+
+文献0313
+
+Imbalanced sample fault diagnosis of rotating machinery using conditional variational auto-encoder generative adversarial network
+作者:Wang, YR (Wang, You-ren)[ 1 ] ; Sun, GD (Sun, Guo-dong)[ 1 ] ; Jin, Q (Jin, Qi)[ 1 ]
+APPLIED SOFT COMPUTING
+卷: 92
+文献号: 106333
+DOI: 10.1016/j.asoc.2020.106333
+出版年: JUL 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS	Q1
+
+
+文献0314
+
+Generative adversarial networks with decoder-encoder output noises
+作者:Zhong, GQ (Zhong, Guoqiang)[ 1 ] ; Gao, W (Gao, Wei)[ 1 ] ; Liu, YB (Liu, Yongbin)[ 1 ] ; Yang, YZ (Yang, Youzhao)[ 2 ] ; Wang, H (Wang, Han)[ 3 ] ; Huang, KZ (Huang, Kaizhu)[ 4,5 ]
+查看 Web of Science ResearcherID 和 ORCID
+NEURAL NETWORKS
+卷: 127  页: 19-28
+DOI: 10.1016/j.neunet.2020.04.005
+出版年: JUL 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+NEUROSCIENCES	Q1
+
+
+
+文献0315
+
+Generative Adversarial Networks are special cases of Artificial Curiosity (1990) and also closely related to Predictability Minimization (1991)
+作者:Schmidhuber, J (Schmidhuber, Jurgen)[ 1,2,3 ]
+NEURAL NETWORKS
+卷: 127  页: 58-66
+DOI: 10.1016/j.neunet.2020.04.008
+出版年: JUL 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+NEUROSCIENCES	Q1
+
+
+文献0316
+
+Training bidirectional generative adversarial networks with hints
+作者:Mutlu, U (Mutlu, Uras)[ 1 ] ; Alpaydin, E (Alpaydin, Ethem)[ 1 ]
+PATTERN RECOGNITION
+卷: 103
+文献号: 107320
+DOI: 10.1016/j.patcog.2020.107320
+出版年: JUL 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+ENGINEERING, ELECTRICAL & ELECTRONIC
+
+
+文献0317
+
+FEM Simulation-Based Generative Adversarial Networks to Detect Bearing Faults
+作者:Gao, Y (Gao, Yun)[ 1 ] ; Liu, XY (Liu, Xiaoyang)[ 1 ] ; Xiang, JW (Xiang, Jiawei)[ 1 ]
+查看 Web of Science ResearcherID 和 ORCID
+IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+卷: 16  期: 7  页: 4961-4971
+DOI: 10.1109/TII.2020.2968370
+出版年: JUL 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+AUTOMATION & CONTROL SYSTEMS	Q1
+COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS	Q1
+ENGINEERING, INDUSTRIAL	Q1
+
+
+文献0318
+
+Image augmentation to improve construction resource detection using generative adversarial networks, cut-and-paste, and image transformation techniques
+作者:Bang, S (Bang, Seongdeok)[ 1 ] ; Baek, F (Baek, Francis)[ 1 ] ; Park, S (Park, Somin)[ 1 ] ; Kim, W (Kim, Wontae)[ 1 ] ; Kim, H (Kim, Hyoungkwan)[ 1 ]
+AUTOMATION IN CONSTRUCTION
+卷: 115
+文献号: 103198
+DOI: 10.1016/j.autcon.2020.103198
+出版年: JUL 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+CONSTRUCTION & BUILDING TECHNOLOGY	Q1
+ENGINEERING, CIVIL	Q1
+
+
+文献0319
+
+Development of a generative-adversarial-network-based signal reconstruction method for nuclear power plants
+作者:Kim, SG (Kim, Seung Geun)[ 1 ] ; Chae, YH (Chae, Young Ho)[ 1 ] ; Seong, PH (Seong, Poong Hyun)[ 1 ]
+ANNALS OF NUCLEAR ENERGY
+卷: 142
+文献号: 107410
+DOI: 10.1016/j.anucene.2020.107410
+出版年: JUL 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+NUCLEAR SCIENCE & TECHNOLOGY	Q2
+
+
+
+文献0320
+
+Data synthesis using dual discriminator conditional generative adversarial networks for imbalanced fault diagnosis of rolling bearings
+作者:Zheng, TS (Zheng, Taisheng)[ 1 ] ; Song, L (Song, Lei)[ 1 ] ; Wang, JX (Wang, Jianxing)[ 1 ] ; Teng, W (Teng, Wei)[ 2 ] ; Xu, XL (Xu, Xiaoli)[ 3 ] ; Ma, C (Ma, Chao)[ 3 ]
+MEASUREMENT
+卷: 158
+文献号: 107741
+DOI: 10.1016/j.measurement.2020.107741
+出版年: JUL 1 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENGINEERING, MULTIDISCIPLINARY	Q2
+INSTRUMENTS & INSTRUMENTATION	Q2
+
+
+
+文献0321
+
+Generative Adversarial Networks and Conditional Random Fields for Hyperspectral Image Classification.
+作者:Zhong, Zilong; Li, Jonathan; Clausi, David A; Wong, Alexander
+查看 Web of Science ResearcherID 和 ORCID (由 Clarivate Analytics 提供)
+IEEE transactions on cybernetics
+卷:50 期:7 页:3318-3329
+DOI:10.1109/TCYB.2019.2915094
+出版年: 2020-Jul (Epub 2019 May 30)
+文献类型:Journal Article
+
+
+
+文献0322
+
+Multi-negative samples with Generative Adversarial Networks for image retrieval
+作者:Li, RF (Li, Ruifan)[ 1,2 ] ; Zhang, XS (Zhang, Xuesen)[ 1 ] ; Chen, G (Chen, Guang)[ 1,3 ] ; Mao, YZ (Mao, Yuzhao)[ 1 ] ; Wang, XJ (Wang, Xiaojie)[ 1,2 ]
+NEUROCOMPUTING
+卷: 394  页: 146-157
+DOI: 10.1016/j.neucom.2018.10.110
+出版年: JUN 21 2020
+文献类型:Article
+
+
+文献0323
+
+Automated traffic incident detection with a smaller dataset based on generative adversarial networks.
+作者:Lin, Yi; Li, Linchao; Jing, Hailong; Ran, Bin; Sun, Dongye
+Accident; analysis and prevention
+卷:144 页:105628
+DOI:10.1016/j.aap.2020.105628
+出版年: 2020-Jun-19 (Epub 2020 Jun 19)
+文献类型:Journal Article
+
+
+文献0324
+
+Generative Adversarial Networks (GANs) Based Synthetic Sampling for Predictive Modeling.
+作者:Barigye, Stephen Jones; Garcia-de la Vega, Jose Manuel; Perez-Castillo, Yunierkis
+Molecular informatics
+DOI:10.1002/minf.202000086
+出版年: 2020-Jun-19 (Epub 2020 Jun 19)
+文献类型:Journal Article
+
+
+文献0325
+
+SpeckleGAN: a generative adversarial network with an adaptive speckle layer to augment limited training data for ultrasound image processing.
+作者:Bargsten, Lennart; Schlaefer, Alexander
+International journal of computer assisted radiology and surgery
+DOI:10.1007/s11548-020-02203-1
+出版年: 2020-Jun-18 (Epub 2020 Jun 18)
+文献类型:Journal Article
+
+
+文献0326
+
+3D-Convolutional Neural Network with Generative Adversarial Network and Autoencoder for Robust Anomaly Detection in Video Surveillance
+作者:Shin, W (Shin, Wonsup)[ 1 ] ; Bu, SJ (Bu, Seok-Jun)[ 1 ] ; Cho, SB (Cho, Sung-Bae)[ 1 ]
+INTERNATIONAL JOURNAL OF NEURAL SYSTEMS
+卷: 30  期: 6
+文献号: 2050034
+DOI: 10.1142/S0129065720500343
+出版年: JUN 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+
+
+文献0327
+
+Data -driven modelling of nonlinear spatio-temporal fluid flows using a deep convolutional generative adversarial network
+作者:Cheng, M (Cheng, M.)[ 1 ] ; Fang, F (Fang, F.)[ 1 ] ; Pain, CC (Pain, C. C.)[ 1 ] ; Navon, IM (Navon, I. M.)[ 2 ]
+COMPUTER METHODS IN APPLIED MECHANICS AND ENGINEERING
+卷: 365
+文献号: 113000
+DOI: 10.1016/j.cma.2020.113000
+出版年: JUN 15 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENGINEERING, MULTIDISCIPLINARY	Q1
+MATHEMATICS, INTERDISCIPLINARY APPLICATIONS	Q1
+MECHANICS	Q1
+
+
+文献0328
+
+Image Blind Denoising Using a Generative Adversarial Network for LED Chip Visual Localization
+作者:Li, DL (Li, Delong)[ 1 ] ; Gong, SH (Gong, Shihua)[ 1 ] ; Niu, SL (Niu, Shuanlong)[ 1 ] ; Wang, ZY (Wang, Ziyue)[ 1 ] ; Zhou, DY (Zhou, Diyi)[ 1 ] ; Lu, HQ (Lu, Huaiqing)[ 1 ]
+查看 Web of Science ResearcherID 和 ORCID
+IEEE SENSORS JOURNAL
+卷: 20  期: 12  页: 6582-6595
+DOI: 10.1109/JSEN.2020.2976576
+出版年: JUN 15 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENGINEERING, ELECTRICAL & ELECTRONIC	Q2
+INSTRUMENTS & INSTRUMENTATION	Q1
+PHYSICS, APPLIED	Q2
+
+
+文献0329
+
+Size dependent buckling analysis of nano sandwich beams by two schemes
+作者:Rezaiee-Pajand, M (Rezaiee-Pajand, M.)[ 1 ] ; Mokhtari, M (Mokhtari, M.)[ 1 ]
+查看 Web of Science ResearcherID 和 ORCID
+MECHANICS OF ADVANCED MATERIALS AND STRUCTURES
+卷: 27  期: 12  页: 975-990
+DOI: 10.1080/15376494.2018.1503381
+出版年: JUN 15 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+MATERIALS SCIENCE, CHARACTERIZATION & TESTING	Q1
+MATERIALS SCIENCE, COMPOSITES	Q2
+MATERIALS SCIENCE, MULTIDISCIPLINARY	Q2
+MECHANICS	Q1
+
+
+文献0330
+
+Generative adversarial network-based super-resolution of diffusion-weighted imaging: Application to tumour radiomics in breast cancer
+作者:Fan, M (Fan, Ming)[ 1 ] ; Liu, ZH (Liu, Zuhui)[ 1 ] ; Xu, MS (Xu, Maosheng)[ 2 ] ; Wang, SW (Wang, Shiwei)[ 2 ] ; Zeng, TY (Zeng, Tieyong)[ 3 ] ; Gao, X (Gao, Xin)[ 4 ] ; Li, LH (Li, Lihua)[ 1 ]
+查看 Web of Science ResearcherID 和 ORCID
+NMR IN BIOMEDICINE
+文献号: e4345
+DOI: 10.1002/nbm.4345
+Early access icon在线发表日期: JUN 2020
+文献类型:Article; Early Access
+
+JCR? 类别	JCR 分区
+BIOPHYSICS	Q2
+RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING	Q1
+SPECTROSCOPY	Q1
+
+
+文献0331
+
+WeGAN: Deep Image Hashing With Weighted Generative Adversarial Networks
+作者:Wang, YB (Wang, Yuebin)[ 1,2 ] ; Zhang, LQ (Zhang, Liqiang)[ 3 ] ; Nie, FP (Nie, Feiping)[ 4,5 ] ; Li, XG (Li, Xingang)[ 3 ] ; Chen, ZJ (Chen, Zhijun)[ 6 ] ; Wang, FQ (Wang, Faqiang)[ 6 ]
+查看 Web of Science ResearcherID 和 ORCID
+IEEE TRANSACTIONS ON MULTIMEDIA
+卷: 22  期: 6  页: 1458-1469
+DOI: 10.1109/TMM.2019.2947197
+出版年: JUN 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, INFORMATION SYSTEMS	Q1
+COMPUTER SCIENCE, SOFTWARE ENGINEERING	Q1
+TELECOMMUNICATIONS	Q1
+
+
+
+文献0332
+
+Multi-modal generative adversarial network for zero-shot learning
+作者:Ji, Z (Ji, Zhong)[ 1 ] ; Chen, KX (Chen, Kexin)[ 1 ] ; Wang, JY (Wang, Junyue)[ 1 ] ; Yu, YL (Yu, Yunlong)[ 2 ] ; Zhang, ZF (Zhang, Zhongfei)[ 3 ]
+KNOWLEDGE-BASED SYSTEMS
+卷: 197
+文献号: 105847
+DOI: 10.1016/j.knosys.2020.105847
+出版年: JUN 7 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q1
+
+
+
+文献0333
+
+Gaussian Pyramid of Conditional Generative Adversarial Network for Real-World Noisy Image Denoising
+作者:Ma, RJ (Ma, Ruijun)[ 1 ] ; Zhang, B (Zhang, Bob)[ 1 ] ; Hu, HF (Hu, Haifeng)[ 2 ]
+NEURAL PROCESSING LETTERS
+卷: 51  期: 3  页: 2669-2684  特刊: SI
+DOI: 10.1007/s11063-020-10215-w
+出版年: JUN 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE	Q2
+
+
+
+
+文献0334
+
+Unified generative adversarial networks for multimodal segmentation from unpaired 3D medical images.
+作者:Yuan, Wenguang; Wei, Jia; Wang, Jiabing; Ma, Qianli; Tasdizen, Tolga
+Medical image analysis
+卷:64 页:101731
+DOI:10.1016/j.media.2020.101731
+出版年: 2020-Jun-04 (Epub 2020 Jun 04)
+文献类型:Journal Article
+
+
+
+文献0335
+
+MB-FSGAN: Joint segmentation and quantification of kidney tumor on CT by the multi-branch feature sharing generative adversarial network.
+作者:Ruan, Yanan; Li, Dengwang; Marshall, Harry; Miao, Timothy; Cossetto, Tyler; Chan, Ian; Daher, Omar; Accorsi, Fabio; Goela, Aashish; Li, Shuo
+查看 Web of Science ResearcherID 和 ORCID (由 Clarivate Analytics 提供)
+Medical image analysis
+卷:64 页:101721
+DOI:10.1016/j.media.2020.101721
+出版年: 2020-Jun-03 (Epub 2020 Jun 03)
+文献类型:Journal Article
+
+
+
+文献0336
+
+Generative adversarial network for road damage detection
+作者:Maeda, H (Maeda, Hiroya)[ 1 ] ; Kashiyama, T (Kashiyama, Takehiro)[ 1 ] ; Sekimoto, Y (Sekimoto, Yoshihide)[ 1 ] ; Seto, T (Seto, Toshikazu)[ 1 ] ; Omata, H (Omata, Hiroshi)[ 1 ]
+COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING
+DOI: 10.1111/mice.12561
+Early access icon在线发表日期: JUN 2020
+文献类型:Article; Early Access
+
+JCR? 类别	JCR 分区
+COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS	Q1
+CONSTRUCTION & BUILDING TECHNOLOGY	Q1
+ENGINEERING, CIVIL	Q1
+TRANSPORTATION SCIENCE & TECHNOLOGY	Q1
+
+
+
+文献0337
+
+An improved unsupervised representation learning generative adversarial network for remote sensing image scene classification
+作者:Wei, YF (Wei, Yufan)[ 1 ] ; Luo, XB (Luo, Xiaobo)[ 1,2 ] ; Hu, LX (Hu, Lixin)[ 1 ] ; Peng, YD (Peng, Yidong)[ 2 ] ; Feng, JF (Feng, Jiangfan)[ 1,2 ]
+REMOTE SENSING LETTERS
+卷: 11  期: 6  页: 598-607
+DOI: 10.1080/2150704X.2020.1746854
+出版年: JUN 2 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY	Q2
+REMOTE SENSING	Q3
+
+
+
+文献0338
+
+A Distribution and Structure Match Generative Adversarial Network for SAR Image Classification
+作者:Ren, ZL (Ren, Zhongle)[ 1,2 ] ; Hou, B (Hou, Biao)[ 1,2 ] ; Wu, Q (Wu, Qian)[ 1,2 ] ; Wen, ZD (Wen, Zaidao)[ 3 ] ; Jiao, LC (Jiao, Licheng)[ 1,2 ]
+查看 Web of Science ResearcherID 和 ORCID
+IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+卷: 58  期: 6  页: 3864-3880
+DOI: 10.1109/TGRS.2019.2959120
+出版年: JUN 2020
+文献类型:Article
+
+JCR? 类别	JCR 分区
+ENGINEERING, ELECTRICAL & ELECTRONIC	Q1
+GEOCHEMISTRY & GEOPHYSICS	Q1
+IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY	Q1
+REMOTE SENSING	Q1
+
+
+
+文献0339
+
+Combination of generative adversarial network and convolutional neural network for automatic subcentimeter pulmonary adenocarcinoma classification
+作者:Wang, YP (Wang, Yunpeng)[ 1,2 ] ; Zhou, LX (Zhou, Lingxiao)[ 1,2,3 ] ; Wang, MM (Wang, Mingming)[ 4 ] ; Shao, C (Shao, Cheng)[ 4 ] ; Shi, LL (Shi, Lili)[ 1,2 ] ; Yang, SY (Yang, Shuyi)[ 1,2 ] ; Zhang, ZY (Zhang, Zhiyong)[ 1,2 ] ; Feng, MX (Feng, Mingxiang)[ 5 ] ; Shan, F (Shan, Fei)[ 1,2 ] ; Liu, L (Liu, Lei)[ 1,2,6 ]
+QUANTITATIVE IMAGING IN MEDICINE AND SURGERY
+卷: 10  期: 6  页: 1249-1264
+DOI: 10.21037/qims-19-982
+出版年: JUN 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING	Q2
+
+
+
+
+文献0340
+
+Recurrent generative adversarial network for learning imbalanced medical image semantic segmentation
+作者:Rezaei, M (Rezaei, Mina)[ 1 ] ; Yang, HJ (Yang, Haojin)[ 1 ] ; Meinel, C (Meinel, Christoph)[ 1 ]
+MULTIMEDIA TOOLS AND APPLICATIONS
+卷: 79  期: 21-22  页: 15329-15348
+DOI: 10.1007/s11042-019-7305-1
+出版年: JUN 2020
+文献类型:Article
+
+CR? 类别	JCR 分区
+COMPUTER SCIENCE, INFORMATION SYSTEMS	Q3
+COMPUTER SCIENCE, SOFTWARE ENGINEERING	Q2
+COMPUTER SCIENCE, THEORY & METHODS	Q2
+ENGINEERING, ELECTRICAL & ELECTRONIC	Q3
+
+
+
+
+
+
